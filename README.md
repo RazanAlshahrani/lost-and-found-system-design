@@ -15,6 +15,10 @@ The proposed system allows users to:
 * Mark recovered items as claimed
 * Receive status notifications
 
+## Project Report
+
+[View the full project report](./lost-and-found-system-design-report.pdf)
+
 ## System Design
 
 The project documentation includes:
