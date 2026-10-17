@@ -1,5 +1,3 @@
-# lost-and-found-system-design
-Software engineering project featuring requirements analysis and UML system design for a lost-and-found platform.
 # Lost and Found System Design
 
 A software engineering project focused on analyzing and designing a web-based platform that helps university students report, search for, and recover lost items.
